@@ -18,7 +18,7 @@ TravelEase provide users to the ability to share their recent travels with other
   <p> TravelEase Demo - Watch Video</p>
 </a>
 
-<a href="https://cdn.loom.com/sessions/thumbnails/6839227b01d146fbb6459f1e1130d58c-00001.mp4">
+<a href="https://www.loom.com/share/6839227b01d146fbb6459f1e1130d58c?sid=0263a1d7-e8d9-4684-bc71-f7b9205c42d3">
     <img src="https://cdn.loom.com/sessions/thumbnails/6839227b01d146fbb6459f1e1130d58c-00001.jpg" width="400">
 </a>
 

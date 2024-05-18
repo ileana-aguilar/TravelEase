@@ -40,7 +40,7 @@ TravelEase is a React-based web application designed to help users share and man
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/travelease.git
+   git clone https://github.com/ileana-aguilar/TravelEase.git
    cd travelease
 
 3. **Create a supabase account**

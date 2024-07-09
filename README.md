@@ -34,7 +34,9 @@ TravelEase is a React-based web application designed to help users share and man
     <img src="https://cdn.loom.com/sessions/thumbnails/6839227b01d146fbb6459f1e1130d58c-00001.jpg" width="400">
 </a>
 
-
+<a href="https://www.figma.com/design/Dr1w7mHOvZfxOw1Dd4RxTo/Untitled?node-id=0-1&t=yLPvEEnXsBW0zEoT-1
+  <p> TravelEase Figma Design file - Click here!</p>
+</a>
 
 # Getting started
 

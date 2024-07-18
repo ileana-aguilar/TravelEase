@@ -1,3 +1,5 @@
+Updated Projects Featuring an Ai tool: https://github.com/ileana-aguilar/TravelEaseAI
+
 # TravelEase
 
 TravelEase is a React-based web application designed to help users share and manage their travel itineraries. The platform includes user authentication, post creation, updates, deletion, and an interactive home feed with various features for enhanced user interaction.

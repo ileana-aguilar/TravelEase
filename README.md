@@ -1,4 +1,4 @@
-Updated Projects Featuring an Ai tool: https://github.com/ileana-aguilar/TravelEaseAI
+Updated Project Featuring an AI tool: https://github.com/ileana-aguilar/TravelEaseAI
 
 # TravelEase
 
